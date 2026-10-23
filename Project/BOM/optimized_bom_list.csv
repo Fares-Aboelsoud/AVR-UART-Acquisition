@@ -1,0 +1,16 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+ATmega328P MCU,8-bit AVR Microcontroller 32KB Flash 20MHz (Standalone SMD IC),1,Microchip Technology,ATMEGA328P-AU,https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf,75,75
+USB-UART Bridge IC,Full-speed USB to serial UART converter bus interface,1,WCH (Jiangsu Qinheng),CH340N,https://www.wch-ic.com/downloads/CH340DS1_PDF.html,18,18
+16MHz Crystal,Fundamental 16.000MHz ±20ppm SMD Crystal Resonator (Clock for 9600 baud),1,Abracon LLC,ABM8-16.000MHZ-B2-T,https://abracon.com/Resonators/ABM8.pdf,3,3
+Load Capacitors 22pF,22pF 50V ±5% C0G/NP0 Ceramic Capacitor 0603 (Crystal stabilization),2,Murata Electronics,GRM1885C1H220JA01D,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM1885C1H220JA01-01.pdf,0.4,0.8
+Decoupling Capacitors 100nF,100nF (0.1µF) 50V 10% X7R Ceramic Capacitor 0603 (VCC/AVCC decoupling),3,Samsung Electro-Mechanics,CL10B104KB8NNNC,https://weblib.samsungsem.com/mlcc/mlcc-manual.do?partNumber=CL10B104KB8NNNC,0.5,1.5
+Bulk Filter Capacitor 10µF,10µF 16V 10% X5R Ceramic / Tantalum Capacitor 0805 (5V rail filter),1,KEMET,C0805C106K4PACTU,https://content.kemet.com/datasheets/KEM_C1002_X5R_SMD.pdf,1.5,1.5
+SMD Tactile Button,Momentary SPST SMD Tact Switch 3.0x4.0x2.0mm (Replaces DIP switch),1,Omron Electronics,B3U-1000P,https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf,1.2,1.2
+SMD Resistor 10kΩ,10k Ohm 1/10W 5% Thick Film Chip Resistor 0603 (Pull-down for PD2),1,Vishay / Dale,CRCW060310K0JNEA,https://www.vishay.com/docs/20035/dcrcwe3.pdf,0.2,0.2
+SMD LED 0805 Green,"0805 Green SMD Indicator LED (2.1V, 20mA, 570nm) for PD4 status",1,Everlight Electronics,19-217/GHC-YR1S2/3T,https://www.everlight.com/file/ProductFile/19-217-GHC-YR1S2-3T.pdf,0.6,0.6
+SMD Resistor 330Ω,330 Ohm 1/10W 5% Thick Film Chip Resistor 0603 (LED current limiter),1,Vishay / Dale,CRCW0603330RJNEA,https://www.vishay.com/docs/20035/dcrcwe3.pdf,0.2,0.2
+USB Type-C Connector,16-Pin Surface Mount USB Type-C Receptacle (Power + USB 2.0),1,Korean HRO,TYPE-C-31-M-12,https://datasheet.lcsc.com/lcsc/1811131811_Korean-HRO-TYPE-C-31-M-12_C165948.pdf,9,9
+CC Resistors 5.1kΩ,5.1k Ohm 1/10W 1% Chip Resistor 0603 (Standard USB-C 5V negotiation),2,Panasonic,ERJ-3EKF5101V,https://industrial.panasonic.com/cdvis/browse/pdf/usa/en/AOA0000C304.pdf,0.2,0.4
+Custom 2-Layer PCB,"FR4 2-Layer Custom Printed Circuit Board (35x45mm, HASL Lead-Free)",1,JLCPCB / PCBWay,CUSTOM-PCB-2L,https://jlcpcb.com/capabilities/Capabilities,15,15
+SMT Assembly (PCBA),"Automated Pick-and-Place SMD Soldering (Batch of 1,000 units)",1,Contract Assembly,SMT-ASSY-1K,https://jlcpcb.com/smt-assembly,12,12
+Total,Total Optimized Production Cost,,,,,,138.4

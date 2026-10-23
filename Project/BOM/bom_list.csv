@@ -1,0 +1,8 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+Arduino UNO R3,ATmega328P Development Board with 16MHz clock and USB-UART interface,1,Arduino / Elegoo,A000066,https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf,450,450
+Push Button,6x6x5mm 4-Pin Momentary SPST Tactile Switch (Active-High input on PD2),1,Omron Electronics,B3F-1000,https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf,2,2
+Resistor 10k,10k Ohm 1/4 W,1,Yageo,CFR-25JB-52-10K,https://www.yageo.com/upload/products/datasheet/lr/YAGEO%20CFR_datasheet.pdf,0.85,0.85
+LED 5mm Green,"5mm Green Diffused Through-Hole LED (VF=2.1V, IF=20mA) on PD4",1,Kingbright,WP7113GD,https://www.kingbrightusa.com/images/catalog/SPEC/WP7113GD.pdf,0.5,0.5
+Mini Breadboard,170 Tie-Point Solderless Mini Breadboard (Prototyping platform),1,Adafruit,65,https://cdn-shop.adafruit.com/datasheets/170_breadboard.pdf,10,10
+Jumper Wires,Male-to-Male 20cm 24AWG Flexible Dupont Jumper Wires,5,Generic,JW-MM-20CM,https://www.sparkfun.com/datasheets/Breadboard/JumperWires.pdf,0.88,4.4
+Total,,,,,,,467.75
